@@ -1,4 +1,6 @@
-# One Track Prototype
+# Vue.js Test Application
+
+A vue.js test application using Typescript
 
 Dependencies:
 + [Yarn](http://yarnpkg.com)
@@ -9,6 +11,3 @@ To run the development server:
 + Clone this repository
 + `yarn install`
 + `yarn dev`
-
-To run tests:
-+ `yarn test`
